@@ -10,7 +10,6 @@ export function Event() {
         <Video/>
         <Sidebar/>
       </main>
-      
     </div>
   )
 }
